@@ -1,0 +1,158 @@
+.conteiner{
+    background: #E5E5E5;;
+}
+.right-side{
+padding-top: 68px;
+padding-right: 200px;
+padding-left: 80px;
+padding-bottom: 68px;
+
+background: #FFFFFF;
+box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.left-side{
+width: 370px;
+min-height: 370px;
+background-color: #1e2939;
+}
+<!--text info-->
+
+.bio-title {
+color:#2a2a2a;
+line-height:2;
+font-size:45px;
+margin-bottom: 20px;
+}
+
+.bio-occupation {
+color:#2a2a2a;
+line-height:1.714;
+font-size:14px;
+margin-bottom: 27px;
+}
+
+.bio-about {
+color:#595959;
+line-height: 1.714;
+font-size:14px;
+}
+<!--Projects-->
+
+.projects-title{
+font-size: 22px;
+line-height: 1.091;
+color: #2a2a2a;
+margin-bottom: 14px;
+}
+.projects-link {
+font-size: 14px;
+line-height: 1.714;
+color: #220fdc;
+}
+.projects-link:hover{
+    color: #ff6b08;
+}
+
+<!--Work Experience-->
+
+.jobs-title {
+    color: #2a2a2a;
+    font-size: 22px;
+    line-height: 1.091;
+    margin-bottom: 26px;
+}
+.jobs-occupation {
+    color: #2a2a2a;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 16px;
+}
+.jobs-time {
+    color: #828282;
+    font-size: 12px;
+    line-height: 2;
+    margin-bottom: 18px;
+}
+.experience{
+    margin-bottom: 28px;
+}
+.experience-item {
+    color: #595959;
+    font-size: 14px;
+    line-height: 1.714;
+    margin-bottom: 10px;
+}
+.accent{
+    color: #ff6b08;
+}
+<!--Education-->
+.education-title {
+    color: #2a2a2a;
+    font-size: 22px;
+    line-height: 1.091;
+    margin-bottom: 26px;
+}
+.education-degree {
+    color: #2a2a2a;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 16px;
+}
+
+.education-time {
+    color: #828282;
+    font-size: 12px;
+    line-height: 2;
+    margin-bottom: 18px;
+}
+.accent {
+    color: #ff6b08;
+}
+.bio,
+.projects,
+.jobs,
+.education {
+    margin-bottom: 60px;
+}
+
+<!--left-side-->
+
+.photo{
+    width: 370px;
+}
+.contacts-title {
+    color: #FFF;
+    font-size: 22px;
+    line-height: 1.091;
+}
+.contacts-item {
+    color: #FFF;
+    font-size: 14px;
+    line-height: 1.714;
+}
+.contacts-link{
+    color: #FFF;
+    opacity: 0.6;
+}
+.contacts-link:hover{
+    opacity: 1;
+}
+
+.skills-title {
+    font-size: 22px;
+    line-height: 1.091;
+}
+
+.skills-item {
+    font-size: 14px;
+    line-height: 1.714;
+ 
+}
+
+
+
+
+
+
+
