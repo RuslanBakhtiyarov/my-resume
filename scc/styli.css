@@ -128,7 +128,7 @@ color: #220fdc;
 <!--left-side-->
 
 .photo{
-    width: 370px;
+    width: auto;
 }
 .contacts-title {
     color: #FFF;
@@ -170,7 +170,7 @@ color: #220fdc;
     font-size: 18px;
 
 }
-.photo,
+
 .contacts,
 .skills {
 margin-bottom: 60px;
