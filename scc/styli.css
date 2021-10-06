@@ -179,32 +179,44 @@ padding-left: 40px;
 .contacts, .skills {
     padding-left: 40px;
 }
-.socials{
-    display:flex;
-    margin-top: auto;
-    margin-bottom: auto;
-}
 .socials-item {
 	display: inline-flex;
 	align-items: center;
 	list-style: none;
-	padding: 0px;
-	margin: 60px;
+	padding: auto;
+	margin-left: 50px;
 }
+.icon-socials {
+	display: block;
+	width: 50px;
+	height: 50px;
+	fill: #FFF;
+}
+
 .icon-items {
-    display: block;
-    margin-right: 10px;
+	display: block;
+	margin-right: 10px;
+    border-radius: 100px;
 }
-.social-link-join {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    background: rgba(255, 255, 255, 0.1);
-    color: #afb1b8;
+.social-link {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	background-color: #ffffff;
+	color: #afb1b8;
+
+	transition-duration: 250ms;
+	transition-property: background-color;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
+.icon-socials:hover{
+    fill: #ff6b08;
+}
+	
+
 
 
 
