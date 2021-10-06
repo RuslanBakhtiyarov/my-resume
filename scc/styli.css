@@ -173,11 +173,37 @@ color: #220fdc;
 
 .contacts,
 .skills {
-margin-bottom: 60px;
+margin-bottom: 10px;
 padding-left: 40px;
 }
 .contacts, .skills {
     padding-left: 40px;
+}
+.socials{
+    display:flex;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.socials-item {
+	display: inline-flex;
+	align-items: center;
+	list-style: none;
+	padding: 0px;
+	margin: 60px;
+}
+.icon-items {
+    display: block;
+    margin-right: 10px;
+}
+.social-link-join {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    color: #afb1b8;
 }
 
 
