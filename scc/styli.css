@@ -31,20 +31,19 @@ color: #fff;
 color:#2a2a2a;
 line-height:2;
 font-size:45px;
-margin-bottom: 20px;
 }
 
 .bio-occupation {
 color:#2a2a2a;
 line-height:1.714;
-font-size:14px;
+font-size:18px;
 margin-bottom: 27px;
 }
 
 .bio-about {
 color:#595959;
 line-height: 1.714;
-font-size:14px;
+font-size:16px;
 }
 <!--Projects-->
 
@@ -55,7 +54,7 @@ color: #2a2a2a;
 margin-bottom: 14px;
 }
 .projects-link {
-font-size: 14px;
+font-size: 16px;
 line-height: 1.714;
 color: #220fdc;
 }
@@ -73,13 +72,13 @@ color: #220fdc;
 }
 .jobs-occupation {
     color: #2a2a2a;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
     margin-bottom: 16px;
 }
 .jobs-time {
     color: #828282;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 2;
     margin-bottom: 18px;
 }
@@ -88,7 +87,7 @@ color: #220fdc;
 }
 .experience-item {
     color: #595959;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.714;
     margin-bottom: 10px;
 }
@@ -104,14 +103,14 @@ color: #220fdc;
 }
 .education-degree {
     color: #2a2a2a;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
     margin-bottom: 16px;
 }
 
 .education-time {
     color: #828282;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 2;
     margin-bottom: 18px;
 }
@@ -135,9 +134,13 @@ color: #220fdc;
     font-size: 22px;
     line-height: 1.091;
 }
+.contacts-menu{
+    list-style: none;
+    padding: 0;
+}
 .contacts-item {
     color: #FFF;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.714;
 }
 .contacts-link{
@@ -154,7 +157,7 @@ color: #220fdc;
 }
 
 .skills-item {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.714;
  
 }
@@ -179,12 +182,14 @@ padding-left: 40px;
 .contacts, .skills {
     padding-left: 40px;
 }
+.socials{
+    margin-bottom: 50px;
+}
 .socials-item {
 	display:flex;
 	align-items: center;
-    justify-content: center;
 	list-style: none;
-    padding: 0;
+    
 
 }
 .icon-socials {
