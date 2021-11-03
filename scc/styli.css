@@ -180,15 +180,15 @@ padding-left: 40px;
     padding-left: 40px;
 }
 .socials-item {
-	display: inline-flex;
+	display:flex;
 	align-items: center;
+    justify-content: center;
 	list-style: none;
-	padding: auto;
-	margin-left: 50px;
+    padding: 0;
+
 }
 .icon-socials {
-	display: block;
-	width: 50px;
+	width: 30px;
 	height: 50px;
 	fill: #FFF;
 }
@@ -202,8 +202,7 @@ padding-left: 40px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 44px;
-	height: 44px;
+
 	border-radius: 50%;
 	background-color: #ffffff;
 	color: #afb1b8;
