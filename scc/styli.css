@@ -120,7 +120,8 @@ color: #220fdc;
 .bio,
 .projects,
 .jobs,
-.education {
+.education
+.bio-courses {
     margin-bottom: 45px;
 }
 
@@ -152,6 +153,7 @@ color: #220fdc;
 }
 
 .skills-title {
+    margin-top: 50px;
     font-size: 22px;
     line-height: 1.091;
 }
